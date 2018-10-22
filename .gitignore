@@ -45,4 +45,9 @@ local.properties
 .studio/
 flows/
 target/
-src/main/api/.repository/ 
+
+# --------------- #
+# User-specific #
+# --------------- #
+*.log
+activemq-data 
